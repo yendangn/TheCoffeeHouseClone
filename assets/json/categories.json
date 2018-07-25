@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "image": "https://hiquynhon.com/wp-content/uploads/2017/10/tradao-hiquynhon-03.jpg",
+    "name": "Speciality"
+  },
+  {
+    "id": 2,
+    "image": "https://meta.vn/Data/image/2015/08/10/Sua_cafe_Capuchino15.jpg",
+    "name": "Favorite"
+  },
+  {
+    "id": 3,
+    "image": "http://cafefcdn.com/thumb_w/650/2018/4/15/photo1523807251221-15238072512221531643105.jpg",
+    "name": "Coffee"
+  },
+  {
+    "id": 4,
+    "image": "https://www.thorntons.co.uk/on/demandware.static/-/Sites-thorntons-live-products/default/dwace0a97e/product-images/64051-caramel-truffle-chocolate-bar.jpg",
+    "name": "Chocolate"
+  },
+  {
+    "id": 5,
+    "image": "https://lamthenao.com/uploads/2016/11/sinh-to-va-nuoc-ep-hoa-qua-ban-chon-chu-nao-9.jpg",
+    "name": "Juice"
+  },
+  {
+    "id": 6,
+    "image": "http://www.adona.vn/upload/sanpham/banh-khai-vi-783.jpg",
+    "name": "Cake"
+  },
+  {
+    "id": 7,
+    "image": "http://vinabase.com/upload/s/20141020/c7c25526dae61a456d431899d627237f120905amthuc01-link-ca2b5.jpg",
+    "name": "Fritter"
+  },
+  {
+    "id": 8,
+    "image": "https://cdn.habitat.co.uk/media/catalog/product/cache/1/image/641x/9df78eab33525d08d6e5fb8d27136e95/1/8/187548.jpg",
+    "name": "Cup"
+  }
+]

@@ -1,0 +1,15 @@
+{
+  "expo": {
+    "sdkVersion": "27.0.0",
+    "name": "TheCoffeeHouseClone",
+    "icon": "./assets/image/ic_reward.png",
+    "version": "1.0.0",
+    "slug": "your-app-slug",
+    "ios": {
+      "bundleIdentifier": "com.yendang.thecoffeehouseclone"
+    },
+    "android": {
+      "package": "com.yendang.thecoffeehouseclone"
+    }
+  }
+}

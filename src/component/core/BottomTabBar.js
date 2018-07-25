@@ -1,6 +1,7 @@
 import React from 'react';
 import {createBottomTabNavigator,createStackNavigator} from 'react-navigation';
 import Ionicons from 'react-native-vector-icons/Ionicons';
+import { StyleSheet, Text, View, Button } from 'react-native';
 import ProfileScreen from '../profile/ProfilePage';
 import OrderScreen from '../order/ui/OrderPage';
 import DetailsScreen from '../newsdetail/NewsDetailsPage';
@@ -51,7 +52,7 @@ export default createBottomTabNavigator(
 
                 // You can return any component that you like here! We usually use an
                 // icon component from react-native-vector-icons
-                return <Ionicons name={iconName} size={25} color={tintColor} />;
+                return <View/>;
             },
         }),
         tabBarOptions: {

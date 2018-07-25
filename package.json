@@ -25,9 +25,9 @@
     "react": "16.3.1",
     "react-native": "~0.55.2",
     "react-native-elements": "^1.0.0-beta",
-    "react-native-super-grid": "^2.4.1",
+    "react-native-super-grid": "^2.4.3",
     "react-native-vector-icons": "^4.6.0",
-    "react-navigation": "^2.7.0",
+    "react-navigation": "^2.9.1",
     "react-redux": "^5.0.7",
     "redux": "^4.0.0",
     "redux-thunk": "^2.3.0"
